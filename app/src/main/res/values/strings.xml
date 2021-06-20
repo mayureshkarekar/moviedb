@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="search">Search</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="releasing_on">Releasing on %s</string>
+    <string name="book_now">Book Now</string>
+    <string name="search_movie_name">Search movie name</string>
+    <string name="reviews_amp_comments"><![CDATA[Reviews & Comments]]></string>
+    <string name="similar_movies">Similar Movies</string>
+    <string name="recent_searches">Recent searches</string>
+</resources>
